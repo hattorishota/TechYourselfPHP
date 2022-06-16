@@ -1,3 +1,8 @@
+<?php
+print 'こんにちは、世界！<br>';
+print 'こんにちは、皆さん！';
+?>
+
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -8,9 +13,6 @@
   <link rel="stylesheet" type="text/css" href="./css/style.css">
 </head>
 <body>
-<?php
-print 'こんにちは、世界！<br>';
-print 'こんにちは、皆さん！';
-?>
+
 </body>
 </html>
